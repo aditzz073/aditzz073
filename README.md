@@ -48,11 +48,10 @@
 
 </div>
 
-# 📊 Github Stats:
-<div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditzz073&theme=monokai&hide_border=true" width="450" alt="streak and contributions"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditzz073&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="323" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aditzz073&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aditzz073&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditzz073&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
